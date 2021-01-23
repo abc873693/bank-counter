@@ -2,6 +2,8 @@
 
 使用 Flutter 建置的模擬抽號碼牌 App
 
+[Demo Site](https://abc873693.github.io/bank-counter/#/)
+
 ## 支援平台
  - [x] Android
  - [x] iOS
