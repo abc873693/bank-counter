@@ -18,6 +18,7 @@ class MyAppState extends State<MyApp> {
       routes: <String, WidgetBuilder>{
         Navigator.defaultRouteName: (context) => HomePage(),
       },
+      onGenerateTitle: (context) => 'Bank Counter',
     );
   }
 }
